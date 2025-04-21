@@ -19,7 +19,7 @@ Just click the “Open in Colab” badge at the top of the `Vera_Example.ipynb` 
 Run the “Setup” commands above to install all required R libraries.
 
 **🔗 2. Open from GitHub inside Colab**  
-Go to [https://colab.research.google.com](https://colab.research.google.com) → Select **"Open notebook"** → Choose the **GitHub** tab → Paste  
+Go to [https://colab.research.google.com](https://colab.research.google.com) → Select **"open colab"** → Choose the **GitHub** tab → Paste  
 `https://github.com/rohitshukla01/PY-VERA_EXAMPLE/blob/main/Vera_Example.ipynb`  
 → Press **Enter** and select the notebook.  
 Run the “Setup” commands to install all required R libraries.
