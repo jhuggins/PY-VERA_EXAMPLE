@@ -30,3 +30,16 @@ Unzip the folder anywhere on your computer.
 Open [Google Colab](https://colab.research.google.com), go to **File → Upload notebook**, and select `Vera_Example.ipynb`.  
 Run the “Setup” commands to install all required R libraries.
 
+**4. Upload your Notebook Directly to GitHub from Colab**  
+If you’ve made changes in the notebook and want to save them to your GitHub:
+
+1. In Google Colab, click on **File → Save a copy in GitHub**  
+2. In the dialog box:  
+   - **Repository:** `your-username/Your_Repo_name`  
+   - **File path:** `Your_Forecasting_name.ipynb`  
+   - Add a short **commit message**, e.g., `Vera Forecast Challenge Example`  
+3. Click **OK** to push the notebook directly to your GitHub repo.
+
+> 💡 Make sure you’re logged into your GitHub account in your browser when using this feature.
+
+
