@@ -3,7 +3,7 @@
 
 This tutorial shows you how to build and run a simple linear regression model to forecast water temperature for the VERA Forecasting Challenge. You’ll integrate R‑developed tools to preprocess the required data, with validation and submission steps implemented in a Python notebook.
 
-## 2. Setting up your Colab Environment
+## 2. Setting up your Colab Environment with R packages
 
 
 You can run these commands in your colab notebook for required R packages installation (Setup):
