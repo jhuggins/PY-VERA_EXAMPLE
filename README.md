@@ -6,7 +6,7 @@ This tutorial shows you how to build and run a simple linear regression model to
 ## 🚀2. Get the code
 
 **✅ 1. Fork and open from GitHub inside Colab (Recommended)** 
-- Sign into GitHub and navigate to the tutorial repository [https://github.com/rohitshukla01/PY-VERA_EXAMPLE](https://github.com/rohitshukla01/PY-VERA_EXAMPLE).
+- Sign into GitHub and navigate to the tutorial repository [https://github.com/LTREB-reservoirs/PY-VERA_EXAMPLE](https://github.com/LTREB-reservoirs/PY-VERA_EXAMPLE).
 - Click the "Fork" button on the top right of the repository page to fork a copy of the repository to your own GitHub account.
 - Once your fork is created, **in a new browser tab**, go to [https://colab.research.google.com](https://colab.research.google.com). You may need to log into your Google account to set up Colab if you have never used it before.
 -  Select **"open notebook"** → Choose the **GitHub** tab
