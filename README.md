@@ -5,7 +5,7 @@ This tutorial shows you how to build and run a simple linear regression model to
 
 ## 🚀2. Get the code
 
-**✅ 1. Fork and open from GitHub inside Colab (Recommended)** 
+**✅ Option 1. Fork and open from GitHub inside Colab (Recommended)** 
 - Sign into GitHub and navigate to the tutorial repository [https://github.com/LTREB-reservoirs/PY-VERA_EXAMPLE](https://github.com/LTREB-reservoirs/PY-VERA_EXAMPLE).
 - Click the "Fork" button on the top right of the repository page to fork a copy of the repository to your own GitHub account.
 - Once your fork is created, **in a new browser tab**, go to [https://colab.research.google.com](https://colab.research.google.com). You may need to log into your Google account to set up Colab if you have never used it before.
@@ -17,7 +17,7 @@ This tutorial shows you how to build and run a simple linear regression model to
 - Any changes you make and save will be committed directly to your fork on GitHub. When you save for the first time, you may need to verify your account and permit Colab to access your GitHub account to make the first commit.
 - Once you have made your first commit on your forked repository, an "Open in Colab" badge will automatically be generated at the top of the `Vera_Example.ipynb` file. From now on, you can simply click this button to open the file in your Colab.
 
-**🔗 2. Open directly in Colab from the LTREB-reservoirs organization**  
+**🔗 Option 2. Open directly in Colab from the LTREB-reservoirs organization**  
 - Just click the “Open in Colab” badge at the top of the `Vera_Example.ipynb` notebook, and it will open the notebook directly in your Colab environment (login to your Google account if required).  
 - Run the “Setup” commands below to install all required R libraries.
 - If you make changes to the code and now wish to save them to your GitHub:
@@ -30,13 +30,13 @@ This tutorial shows you how to build and run a simple linear regression model to
 
 > 💡 Make sure you’re logged into your GitHub account in your browser when using this feature.
 
-**📦 3. Download ZIP & Upload Manually**  
+**📦 Option 3. Download ZIP & Upload Manually**  
 - On GitHub, click **Code → Download ZIP**.  
 - Unzip the folder anywhere on your computer.  
 - Open [Google Colab](https://colab.research.google.com), go to **File → Upload notebook**, and select `Vera_Example.ipynb`.  
 - Run the “Setup” commands below to install all required R libraries.
 
-## ⚙️ 3. Setting up your Colab Environment with R packages
+## ⚙️ 3. Setting up your Colab Environment with R packages (This step is also done in the notebook)
 
 You can run these commands in your Colab notebook for required R packages installation (Setup):
 
