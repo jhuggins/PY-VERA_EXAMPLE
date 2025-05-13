@@ -17,20 +17,7 @@ This tutorial shows you how to build and run a simple linear regression model to
 - Any changes you make and save will be committed directly to your fork on GitHub. When you save for the first time, you may need to verify your account and permit Colab to access your GitHub account to make the first commit.
 - Once you have made your first commit on your forked repository, an "Open in Colab" badge will automatically be generated at the top of the `Vera_Example.ipynb` file. From now on, you can simply click this button to open the file in your Colab.
 
-**🔗 Option 2. Open directly in Colab from the LTREB-reservoirs organization**  
-- Just click the “Open in Colab” badge at the top of the `Vera_Example.ipynb` notebook, and it will open the notebook directly in your Colab environment (login to your Google account if required).  
-- Run the “Setup” commands below to install all required R libraries.
-- If you make changes to the code and now wish to save them to your GitHub:
-  1. In Google Colab, click on **File → Save a copy in GitHub**  
-  2. In the dialog box:  
-     - **Repository:** `your-username/Your_Repo_name`  
-     - **File path:** `Your_Forecasting_code_name.ipynb`  
-     - Add a short **commit message**, e.g., `Vera Forecast Challenge Example`  
-  3. Click **OK** to push the notebook directly to your GitHub repo.
-
-> 💡 Make sure you’re logged into your GitHub account in your browser when using this feature.
-
-**📦 Option 3. Download ZIP & Upload Manually**  
+**📦 Option 2. Download ZIP & Upload Manually**  
 - On GitHub, click **Code → Download ZIP**.  
 - Unzip the folder anywhere on your computer.  
 - Open [Google Colab](https://colab.research.google.com), go to **File → Upload notebook**, and select `Vera_Example.ipynb`.  
